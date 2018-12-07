@@ -2,7 +2,7 @@
   "name": "chucknorris",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://myusername.github.io/joke",
+  "homepage": "https://andyka1714.github.io/joke",
   "dependencies": {
     "axios": "^0.18.0",
     "gh-pages": "^2.0.1",
